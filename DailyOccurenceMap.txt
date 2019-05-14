@@ -1,0 +1,168 @@
+ 
+2011-11-30 
+Breakfast: 1
+Toileting: 6
+Grooming: 2
+Sleeping: 1
+Leaving: 1
+Dinner: 0
+Spare_Time/TV: 9
+Showering: 1
+Snack: 2
+Lunch: 1
+ 
+2011-11-28 
+Breakfast: 1
+Toileting: 3
+Grooming: 2
+Sleeping: 1
+Leaving: 1
+Dinner: 0
+Spare_Time/TV: 4
+Showering: 1
+Snack: 1
+Lunch: 1
+ 
+2011-11-29 
+Breakfast: 1
+Toileting: 4
+Grooming: 3
+Sleeping: 1
+Leaving: 1
+Dinner: 0
+Spare_Time/TV: 7
+Showering: 1
+Snack: 1
+Lunch: 1
+ 
+2011-12-10 
+Breakfast: 1
+Toileting: 1
+Grooming: 4
+Sleeping: 1
+Leaving: 2
+Dinner: 0
+Spare_Time/TV: 4
+Showering: 1
+Snack: 0
+Lunch: 0
+ 
+2011-12-11 
+Breakfast: 1
+Toileting: 2
+Grooming: 3
+Sleeping: 1
+Leaving: 1
+Dinner: 0
+Spare_Time/TV: 3
+Showering: 1
+Snack: 0
+Lunch: 1
+ 
+2011-12-08 
+Breakfast: 1
+Toileting: 1
+Grooming: 5
+Sleeping: 1
+Leaving: 1
+Dinner: 0
+Spare_Time/TV: 5
+Showering: 1
+Snack: 0
+Lunch: 0
+ 
+2011-12-09 
+Breakfast: 1
+Toileting: 2
+Grooming: 5
+Sleeping: 1
+Leaving: 2
+Dinner: 0
+Spare_Time/TV: 7
+Showering: 1
+Snack: 0
+Lunch: 0
+ 
+2011-12-06 
+Breakfast: 1
+Toileting: 3
+Grooming: 4
+Sleeping: 1
+Leaving: 0
+Dinner: 0
+Spare_Time/TV: 6
+Showering: 1
+Snack: 1
+Lunch: 1
+ 
+2011-12-07 
+Breakfast: 1
+Toileting: 6
+Grooming: 5
+Sleeping: 1
+Leaving: 1
+Dinner: 0
+Spare_Time/TV: 9
+Showering: 1
+Snack: 2
+Lunch: 1
+ 
+2011-12-04 
+Breakfast: 1
+Toileting: 4
+Grooming: 2
+Sleeping: 1
+Leaving: 1
+Dinner: 0
+Spare_Time/TV: 7
+Showering: 1
+Snack: 2
+Lunch: 0
+ 
+2011-12-05 
+Breakfast: 1
+Toileting: 5
+Grooming: 6
+Sleeping: 1
+Leaving: 2
+Dinner: 0
+Spare_Time/TV: 8
+Showering: 1
+Snack: 1
+Lunch: 1
+ 
+2011-12-02 
+Breakfast: 1
+Toileting: 3
+Grooming: 4
+Sleeping: 1
+Leaving: 0
+Dinner: 0
+Spare_Time/TV: 8
+Showering: 1
+Snack: 1
+Lunch: 1
+ 
+2011-12-03 
+Breakfast: 1
+Toileting: 2
+Grooming: 3
+Sleeping: 1
+Leaving: 1
+Dinner: 0
+Spare_Time/TV: 5
+Showering: 1
+Snack: 0
+Lunch: 0
+ 
+2011-12-01 
+Breakfast: 1
+Toileting: 2
+Grooming: 3
+Sleeping: 1
+Leaving: 1
+Dinner: 0
+Spare_Time/TV: 7
+Showering: 1
+Snack: 0
+Lunch: 1
